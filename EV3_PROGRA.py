@@ -1,6 +1,4 @@
 """EV3_PROGRA
-Original file is located at
-    https://colab.research.google.com/drive/1mHmYp7NuZU8NVSIJmpg4rN8H51WH30z1
 
 Problema 1
 """
